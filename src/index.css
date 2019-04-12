@@ -12,3 +12,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.border-5{
+  border-width: 5px;
+}
+.clickable{
+  cursor: pointer;
+}
+.float-right{
+  float: right;
+}
+.opearatorsKeyWidth{
+  width: 40px;
+  height: 40px;
+}

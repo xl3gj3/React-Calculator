@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+.border-5{
+  border-width: 5px;
+}
+.overflow-auto{
+  overflow: auto;
+}
+.container-sm{
+  margin: auto;
+  width: 550px;
+}
+.customize-border{
+  border-style: double;
+  border-width: 10px;
+  border-color: green;
+}
